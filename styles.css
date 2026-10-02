@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+    background-color: #fefae0;
+    font-family: "Inter", sans-serif;
+    color: #151516;
+}
+h1 {
+    color: #588157;
+    font-size: 6rem;
+      height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid #1A1A1A;
+}
+nav a {
+    color: #5b9b8e
+}
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.metodo-titulo {
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color: #598159;
+}
+.precio {
+    font-weight: bold;
+    color: #598159;
+}
+.imagenookini {
+    max-width: 530px;
+    margin: 0 auto;
+}
+.horarios{
+    font-size: 1rem;
+    color: #fefae0;
+}
+#contador-tazas{
+    color:#516e2f ;
+    font-size: 1.5rem;
+    font-weight: 700;
+
+}
+#boton-reservar{
+padding: 0.5rem 1.25rem;
+background-color: #0f7c45;
+color: #fefae0;
+border: none;
+font-family: "Inter", sans-serif;
+font-size: 1rem;
+cursor: pointer;
+}
+
+#reservas {
+    display: flex;
+    align-items:center ;
+    gap: 1rem;
+    color: #fefae0;
+
+}
+#semenanal {
+    background-color: #151516;
+}
+
+#parrafos {
+    color: #fefae0;
+}
+
+#metodosh2{
+    color: #fefae0;
+}
+
+#cafeespecialidades {
+    color: #fefae0;
+}
